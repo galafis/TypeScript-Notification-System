@@ -1,0 +1,12 @@
+{
+  "name": "typescript-notification-system",
+  "version": "1.0.0",
+  "description": "Real-time Notification System",
+  "main": "dist/index.js",
+  "author": "Gabriel Demetrios Lafis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.0.0"
+  }
+}
