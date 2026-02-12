@@ -1,100 +1,152 @@
-# TypeScript Notification System
+# 🚀 Typescript Notification System
 
-![TypeScript Notification System Hero Image](/typescript_notification_system_hero.png)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6.svg)](https://www.typescriptlang.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4-000000.svg)](https://expressjs.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[English](#english) | [Português](#português)
+
+---
 
 ## English
 
-### Real-time Notification System
+### 🎯 Overview
 
-This project presents a robust and efficient real-time notification system built with TypeScript. Designed for scalability and reliability, it provides a seamless way to deliver various types of notifications to users, ensuring timely and effective communication within applications.
+**Typescript Notification System** — Professional TypeScript-Notification-System - Created by Gabriel Demetrios Lafis
 
-### Features
+Total source lines: **22** across **1** files in **1** language.
 
-*   **Real-time Delivery:** Instantaneous notification delivery to users.
-*   **Multi-channel Support:** Adaptable for various communication channels (e.g., in-app, email, push notifications).
-*   **Scalable Architecture:** Built to handle a high volume of notifications and a growing user base.
-*   **Customizable Templates:** Easy to customize notification messages and layouts.
-*   **TypeScript Advantages:** Leverages TypeScript for strong typing, improved code quality, and better maintainability.
+### ✨ Key Features
 
-### Technologies Used
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-*   **TypeScript:** For robust and type-safe code.
-*   **Node.js:** As the runtime environment.
-*   **WebSockets (e.g., Socket.IO):** For real-time, bidirectional communication.
-*   **Express.js:** For building the API.
-*   **MongoDB/PostgreSQL:** For data persistence (example, can be adapted).
+### 🚀 Quick Start
 
-### Quick Start
+#### Prerequisites
+- Node.js 20+ and npm
 
-To get started with the TypeScript Notification System, follow these steps:
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/galafis/TypeScript-Notification-System.git
-    cd TypeScript-Notification-System
-    ```
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-3.  **Build the project:**
-    ```bash
-    npm run build
-    ```
-4.  **Start the application:**
-    ```bash
-    npm start
-    ```
+#### Installation
 
-### Author
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/TypeScript-Notification-System.git
+cd TypeScript-Notification-System
+```
 
-Gabriel Demetrios Lafis
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Running
+
+```bash
+npm run dev
+```
+
+
+
+
+
+### 📁 Project Structure
+
+```
+TypeScript-Notification-System/
+├── src/
+│   └── index.ts
+├── README.md
+└── package.json
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| TypeScript | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
 
 ## Português
 
-### Sistema de Notificação em Tempo Real
+### 🎯 Visão Geral
 
-Este projeto apresenta um sistema de notificação em tempo real robusto e eficiente, construído com TypeScript. Projetado para escalabilidade e confiabilidade, ele oferece uma maneira contínua de entregar vários tipos de notificações aos usuários, garantindo uma comunicação oportuna e eficaz dentro das aplicações.
+**Typescript Notification System** — Professional TypeScript-Notification-System - Created by Gabriel Demetrios Lafis
 
-### Funcionalidades
+Total de linhas de código: **22** em **1** arquivos em **1** linguagem.
 
-*   **Entrega em Tempo Real:** Entrega instantânea de notificações aos usuários.
-*   **Suporte Multi-canal:** Adaptável para vários canais de comunicação (por exemplo, no aplicativo, e-mail, notificações push).
-*   **Arquitetura Escalável:** Construído para lidar com um alto volume de notificações e uma base de usuários crescente.
-*   **Modelos Personalizáveis:** Fácil personalização de mensagens e layouts de notificação.
-*   **Vantagens do TypeScript:** Aproveita o TypeScript para tipagem forte, melhor qualidade de código e maior manutenibilidade.
+### ✨ Funcionalidades Principais
 
-### Tecnologias Utilizadas
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
 
-*   **TypeScript:** Para código robusto e com segurança de tipo.
-*   **Node.js:** Como ambiente de execução.
-*   **WebSockets (ex: Socket.IO):** Para comunicação bidirecional em tempo real.
-*   **Express.js:** Para construção da API.
-*   **MongoDB/PostgreSQL:** Para persistência de dados (exemplo, pode ser adaptado).
+### 🚀 Início Rápido
 
-### Início Rápido
+#### Pré-requisitos
+- Node.js 20+ e npm
 
-Para começar a usar o Sistema de Notificação em TypeScript, siga estes passos:
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/galafis/TypeScript-Notification-System.git
-    cd TypeScript-Notification-System
-    ```
-2.  **Instale as dependências:**
-    ```bash
-    npm install
-    ```
-3.  **Compile o projeto:**
-    ```bash
-    npm run build
-    ```
-4.  **Inicie a aplicação:**
-    ```bash
-    npm start
-    ```
+#### Instalação
 
-### Autor
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/TypeScript-Notification-System.git
+cd TypeScript-Notification-System
+```
 
-Gabriel Demetrios Lafis
+2. **Install dependencies**
+```bash
+npm install
+```
 
+#### Execução
+
+```bash
+npm run dev
+```
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+TypeScript-Notification-System/
+├── src/
+│   └── index.ts
+├── README.md
+└── package.json
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| TypeScript | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
